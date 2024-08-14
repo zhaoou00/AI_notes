@@ -8,7 +8,11 @@
 - All the inputs and intermediate signals are "real number".
 - The activation function is a non-linear function.
 - With proper combination of the layers and activation functions, mathematically the neural network can reproduce any kind of outputs.
-- The optimization of neural network is b
+- The optimization of neural network is exclusively based on the properties of real numbers (transitional symmetry). 
 
 ### The inefficiency of this setup
 - The hardware is based on combinations of logic gates AND, OR, XOR and NOT. They are in no way aware of "real numbers". The concept of "real number" is not an absolute necessary intermediate step.
+- The non-lineariality is automatically built in the logic gates.
+  
+- The construction and optimization of neural network should be directly on the logic gates instead of real numbers
+
