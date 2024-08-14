@@ -50,3 +50,13 @@ To be functionally complete, only a subset of the logic gates are necessary. The
 - Furthermore, finding optimization strategy can be learned by AI. In other words, we can train an AI that can do optimizations on binary neural network. Thus we do no have to rely on arbitrary human-mind produced algorithms for optimization binary neural networks.
 
 
+## Thoughts regarding Neural Network communications and invention of language
+- The current neural network is all-connected between layers of neurons. There are $N\times\M$ connectors between layers. This is a very high bandwidth for communication between different parts of the neural network
+- This is comparable to human brain. The neurons in human brain are inter-connected with extremely high bandwidth.
+- The communication between human, on the contrary, has a very low bandwidth. Human language can be communicated in terms of bits/second
+- With the restriction of low-bandwidth, human language has a high concentration of information. It is an extreme simplification and abstraction of the information inside the human neural network.
+- The human neural network is an extreme simplification, abstraction and simulation of the physical world.
+
+
+## DNA of Neural Network
+
