@@ -51,12 +51,32 @@ To be functionally complete, only a subset of the logic gates are necessary. The
 
 
 ## Thoughts regarding Neural Network communications and invention of language
-- The current neural network is all-connected between layers of neurons. There are $N\times\M$ connectors between layers. This is a very high bandwidth for communication between different parts of the neural network
-- This is comparable to human brain. The neurons in human brain are inter-connected with extremely high bandwidth.
+### Human brain neural network
+- The neurons in human brain are inter-connected with extremely high bandwidth.
 - The communication between human, on the contrary, has a very low bandwidth. Human language can be communicated in terms of bits/second
 - With the restriction of low-bandwidth, human language has a high concentration of information. It is an extreme simplification and abstraction of the information inside the human neural network.
-- The human neural network is an extreme simplification, abstraction and simulation of the physical world.
+- Furthermore, The human neural network is an extreme simplification, abstraction and simulation of the physical world.
+
+### Our silicone neural network
+- The current neural network is all-connected between layers of neurons. There are $N\times\M$ connectors between layers. This is a very high bandwidth for communication between different parts of the neural network
+- We can design a experiment with multiple neural networks with the same initial conditions
+- Each neural network is connected to other neural network with a low bandwidth. Or they can be connected to some common neurons in order to communicate.
+- Then we start training all the individual neural network with similar procedure.
+- This thought experiment should see the invention of language between these neural networks as the training goes on
+- Hopefully the information passed around among them contains the most important information needed to speed up the training.
 
 
 ## DNA of Neural Network
+
+### The Human brains:
+- The human brains are born pre-trained
+- The information needed to train human brain is much smaller than information needed to train a current silicone neural network.
+- The "training" after birth is more like fine-tuning in a current silicone neural network.
+- The main architecture of human brain is already made before birth according to DNA
+
+### Deducting DNA from a silicone neural network
+- One thought experiment is to
+
+### Interbreed of DNA of neural networks.
+
 
